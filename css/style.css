@@ -1,0 +1,23 @@
+body { 
+    text-emphasis-color: rgb(49, 148, 148);
+    }
+    
+    h1 {
+    background-color: rgb(206, 206, 255);
+    }
+    
+    .quote {
+    color: orange;
+    }
+    
+    .quote.narrator {
+        outline-style: dashed;
+        outline-color: rgb(61, 43, 226); 
+    }
+    
+    #intro p {
+        color: blue;
+        transform: scale(1.05); 
+    }
+    
+    
